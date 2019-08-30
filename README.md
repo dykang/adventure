@@ -1,10 +1,13 @@
 # Adventure
 Code for ["Adventure: Adversarial Training for Textual Entailment with Knowledge-Guided Examples"](https://arxiv.org/pdf/1805.04680.pdf) by Dongyeop Kang, Tushar Khot, Ashish Sabharwal and Eduard Hovy, ACL 2018
 
+![](adventure.jpg)
+
+
+
 ## NOTE:
  - For s2s training, you need pre-trained entailment classifier. In this work, we used Decomposable Attention model.
  - Maintenance of this repository might be little slow.
- - More code refactoring and detailed documentation will be made soon.
 
 ## Citation
 
